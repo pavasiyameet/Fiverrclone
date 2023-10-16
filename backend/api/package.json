@@ -10,7 +10,7 @@
     "start": "node index.js",
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
-    "budld":"react-scripts build",
+    "build":"react-scripts build",
     "eject":"react-scripts eject"
   },
   "keywords": [],
